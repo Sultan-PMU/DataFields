@@ -34,7 +34,6 @@ The website helps students explore:
 * Data Engineering
 * Data Management
 * Business Intelligence
-* About Page
 
 ## Project Goal
 
